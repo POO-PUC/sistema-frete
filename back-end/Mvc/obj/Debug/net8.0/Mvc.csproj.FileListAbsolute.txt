@@ -1,0 +1,302 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.exe
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\NHibernate.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\NHibernate.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\bin\Debug\net8.0\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\WebApplication1\obj\Debug\net8.0\ref\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.exe
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\NHibernate.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\NHibernate.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\bin\Debug\net8.0\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Mvc\obj\Debug\net8.0\ref\Mvc.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.exe
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Dominio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Servico.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\NHibernate.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Servico.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\NHibernate.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\bin\Debug\net8.0\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.sourcelink.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Mvc\obj\Debug\net8.0\ref\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.exe
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Mvc.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\bin\Debug\net8.0\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.sourcelink.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\Matheus Souza\Projetos\freight-system\freight-system\Mvc\obj\Debug\net8.0\ref\Mvc.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.exe
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Mvc.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Dominio.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Servico.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Npgsql.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Dapper.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Dominio.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Servico.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Servico.dll.config
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Npgsql.xml
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\bin\Debug\net8.0\Dapper.xml
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.pdb
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\wisley.santos\source\repos\POO_BD\freight-system\Mvc\obj\Debug\net8.0\ref\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfoInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.AssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.RazorAssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.sourcelink.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\refint\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.staticwebassets.runtime.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.exe
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.deps.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.runtimeconfig.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Mvc.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\bin\Debug\net8.0\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.Mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mvc.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\scopedcss\bundle\Mvc.styles.css
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Mvc.bundle.scp.css
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\Mvc.genruntimeconfig.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Mvc\obj\Debug\net8.0\ref\Mvc.dll

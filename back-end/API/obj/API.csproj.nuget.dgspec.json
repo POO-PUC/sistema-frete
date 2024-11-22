@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj",
+        "projectName": "Servico",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

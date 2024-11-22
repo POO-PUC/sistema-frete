@@ -1,0 +1,6 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.pdb

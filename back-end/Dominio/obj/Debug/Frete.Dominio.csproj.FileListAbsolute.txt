@@ -1,0 +1,6 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Frete.Dominio.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Frete.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.pdb

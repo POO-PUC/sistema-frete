@@ -1,0 +1,229 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\NHibernate.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\NHibernate.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\obj\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\obj\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Servico\bin\Debug\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Npgsql.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Dapper.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Memory.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Buffers.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Npgsql.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\Dapper.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Npgsql.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Dapper.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Memory.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Buffers.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Npgsql.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\Dapper.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\Servico\obj\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Npgsql.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Dapper.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Memory.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Buffers.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Npgsql.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\Dapper.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\obj\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Servico\obj\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Servico.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Npgsql.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Dapper.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Memory.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Buffers.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Npgsql.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\Dapper.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\obj\Debug\Servico.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Servico\obj\Debug\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Memory.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Buffers.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\obj\Debug\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Servico\obj\Debug\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Memory.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Threading.Channels.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Text.Json.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Buffers.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.ValueTuple.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\bin\Debug\System.Text.Json.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\obj\Debug\Servico.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\obj\Debug\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Servico\obj\Debug\Servico.pdb

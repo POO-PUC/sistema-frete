@@ -1,0 +1,153 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Dominio/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
+      },
+      "Repositorio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DTO": "1.0.0",
+          "Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositorio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositorio.dll": {}
+        }
+      },
+      "Servico/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "DTO": "1.0.0",
+          "Dominio": "1.0.0",
+          "Repositorio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servico.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
+    },
+    "Repositorio/1.0.0": {
+      "type": "project",
+      "path": "../Repositorio/Repositorio.csproj",
+      "msbuildProject": "../Repositorio/Repositorio.csproj"
+    },
+    "Servico/1.0.0": {
+      "type": "project",
+      "path": "../Servico/Servico.csproj",
+      "msbuildProject": "../Servico/Servico.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Dominio >= 1.0.0",
+      "Servico >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Matheus Souza\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Mvc\\Mvc.csproj",
+      "projectName": "Mvc",
+      "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Mvc\\Mvc.csproj",
+      "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Mvc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Dominio\\Dominio.csproj"
+            },
+            "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Servico\\Servico.csproj": {
+              "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main\\Servico\\Servico.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

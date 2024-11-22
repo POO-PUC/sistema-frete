@@ -1,0 +1,90 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\obj\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\Dominio\obj\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\obj\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\Dominio\obj\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\obj\Debug\Dominio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\obj\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.pdb

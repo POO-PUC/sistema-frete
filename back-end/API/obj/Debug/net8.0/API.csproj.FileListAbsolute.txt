@@ -1,0 +1,146 @@
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\appsettings.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\API.exe
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\API.deps.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\API.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\API.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Dominio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Repositorio.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Servico.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Dapper.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Dominio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Servico.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Servico.dll.config
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Npgsql.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\bin\Debug\net8.0\Dapper.xml
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\API.exe
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\API.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\bin\Debug\net8.0\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\API.exe
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\API.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Dominio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Repositorio.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Servico.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Dominio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Repositorio.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Repositorio.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Servico.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Servico.dll.config
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Npgsql.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\bin\Debug\net8.0\Dapper.xml
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\API\obj\Debug\net8.0\ref\API.dll

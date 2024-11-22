@@ -1,0 +1,48 @@
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\Frete.DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE_2\Frete\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\SistemaDeFrete\freight-system\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\freight-system\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\ATIVIDADE\SistemaDeFrete\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\raiky.novaes\Desktop\FACULDADE\POO_BD\Sistema-De-Frete\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\DTO\obj\Debug\Frete.DTO.pdb
