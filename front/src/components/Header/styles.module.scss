@@ -1,0 +1,67 @@
+// styles.module.scss
+
+.sidebarContainer {
+  height: 100vh; // Altura completa da tela
+  width: 250px; // Largura do menu lateral
+  position: fixed; // Fixa na lateral esquerda
+  left: 0;
+  top: 0;
+  background-color: #333; // Cor de fundo
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebarContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+
+  img {
+    cursor: pointer;
+    margin-bottom: 2rem; // Espaçamento abaixo do logo
+  }
+}
+
+.menuNav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 2rem;
+
+  a {
+    color: var(--white);
+    padding: 1rem;
+    text-decoration: none;
+    width: 100%;
+    text-align: left;
+    transition: background 0.3s;
+
+    &:hover {
+      background-color: var(--dark-700);
+    }
+  }
+
+
+
+  .logoutButton {
+    margin-top: 2rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.8s;
+    align-self: flex-start;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+.profilePhoto{
+  border-radius: 40%;
+}

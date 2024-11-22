@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/pessoas-fisicas": "pages/pessoas-fisicas.js",
+  "/pessoas-fisicas/create": "pages/pessoas-fisicas/create.js",
+  "/pessoas-fisicas/[id]": "pages/pessoas-fisicas/[id].js",
+  "/pessoas-juridicas": "pages/pessoas-juridicas.js",
+  "/pessoas-juridicas/create": "pages/pessoas-juridicas/create.js",
+  "/pessoas-juridicas/[id]": "pages/pessoas-juridicas/[id].js",
+  "/fretes": "pages/fretes.js",
+  "/fretes/create": "pages/fretes/create.js",
+  "/fretes/[id]": "pages/fretes/[id].js"
+}
