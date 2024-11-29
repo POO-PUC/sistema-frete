@@ -267,3 +267,42 @@ C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Repositorio\obj\Debu
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Repositorio\obj\Debug\Reposito.F4C96B80.Up2Date
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Repositorio\obj\Debug\Repositorio.dll
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Repositorio\obj\Debug\Repositorio.pdb
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.dll.config
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.pdb
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Antlr3.Runtime.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Dapper.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Dominio.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Frete.DTO.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Iesi.Collections.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Npgsql.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Buffers.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Collections.Immutable.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Memory.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Numerics.Vectors.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Encodings.Web.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Json.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Threading.Channels.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.ValueTuple.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Dominio.pdb
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Frete.DTO.pdb
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Antlr3.Runtime.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Dapper.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Iesi.Collections.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Npgsql.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Json.xml
+D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.csproj.AssemblyReference.cache
+D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Reposito.F4C96B80.Up2Date
+D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.dll
+D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.pdb

@@ -76,6 +76,31 @@ namespace WebApp.Controllers
             return NoContent();
         }
 
+        [HttpGet("ArrecadacaoComFretesPorEstado/{estado}")]
+        public IActionResult ArrecadacaoComFretesPorEstado(string estado)
+        {
+            if (string.IsNullOrWhiteSpace(estado))
+            {
+                return BadRequest("O estado informado não pode ser vazio.");
+            }
+
+            try
+            {
+                var resultado = _servicoFrete.ArrecadacaoComFretesPorEstado(estado);
+
+                if (resultado == null || !resultado.Any())
+                {
+                    return NotFound($"Não foram encontrados fretes para o estado: {estado}");
+                }
+
+                return Ok(resultado);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Erro interno: {ex.Message}");
+            }
+        }
+
         #endregion
 
         #region CRUD ESTADO

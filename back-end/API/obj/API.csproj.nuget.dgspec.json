@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj": {}
+    "D:\\POO-BD\\sistema-frete\\back-end\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj": {
+    "D:\\POO-BD\\sistema-frete\\back-end\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj",
+        "projectUniqueName": "D:\\POO-BD\\sistema-frete\\back-end\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\API\\obj\\",
+        "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\wisley.santos\\.nuget\\packages\\",
+        "outputPath": "D:\\POO-BD\\sistema-frete\\back-end\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wisley.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,23 +22,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Servico\\Servico.csproj"
               }
             }
           }
@@ -86,11 +87,11 @@
         }
       }
     },
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
+    "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -101,11 +102,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
+    "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj",
+        "projectUniqueName": "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj",
+        "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -116,19 +117,19 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
+    "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj",
+        "projectUniqueName": "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
         "projectName": "Repositorio",
-        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj",
+        "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               }
             }
           }
@@ -138,22 +139,22 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj": {
+    "D:\\POO-BD\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj",
+        "projectUniqueName": "D:\\POO-BD\\sistema-frete\\back-end\\Servico\\Servico.csproj",
         "projectName": "Servico",
-        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Servico\\Servico.csproj",
+        "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Servico\\Servico.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Dominio\\Dominio.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\DTO\\DTO.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj": {
-                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\freight-system\\main-estavel\\Repositorio\\Repositorio.csproj"
+              "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "D:\\POO-BD\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
               }
             }
           }

@@ -88,3 +88,18 @@ C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Do
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.csproj.Up2Date
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.dll
 C:\Users\Matheus Souza\Projetos\freight-system\main-estavel\Dominio\obj\Debug\Dominio.pdb
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Dominio.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Dominio.pdb
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Antlr3.Runtime.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Iesi.Collections.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Antlr3.Runtime.xml
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Iesi.Collections.xml
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.xml
+D:\POO-BD\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.Up2Date
+D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.dll
+D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.pdb

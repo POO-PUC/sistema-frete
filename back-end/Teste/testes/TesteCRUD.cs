@@ -376,6 +376,13 @@ namespace Testes
             TesteObterTodosOsFuncionarios();
         }
 
+        [Test]
+        public void TesteArrecadacaoComFretesPorEstado()
+        {
+            var estado = "Goiás";
+
+            _repositorioFrete.ArrecadacaoComFretesPorEstado(estado);
+        }
         #endregion
     }
 }
