@@ -83,6 +83,19 @@ namespace Servico
             return listaDTOFrete;
         }
 
+        public IList<dynamic> ObterMediaDeFretePorEstado(int id)
+        {
+            if (id <= 0)
+                throw new ArgumentException("O código do estado deve ser válido.");
+
+            var media = _repositorioFrete.ObterMediaDeFretePorEstado(id);
+
+            if (media == null)
+                throw new KeyNotFoundException("Frete não encontrado.");
+
+            return media;
+        }
+
         public IList<DTOFrete> ArrecadacaoComFretesPorEstado(string estado)
         {
             if (string.IsNullOrWhiteSpace(estado))

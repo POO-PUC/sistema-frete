@@ -145,6 +145,37 @@ namespace Repositorio.Repositorio
             }
         }
 
+
+        public IList<dynamic> ObterMediaDeFretePorEstado(int codigoDoEstado)
+        {
+            using (IDbConnection dbConnection = ConfigBanco.GetConnection())
+            {
+                string sql = @"
+                                WITH origem AS (
+                                    SELECT id_origem AS id_cidade, COUNT(*) AS quantidade_origem
+                                    FROM Frete
+                                    GROUP BY id_origem),
+                                    destino AS (
+                                    SELECT id_destino AS id_cidade, COUNT(*) AS quantidade_destino
+                                    FROM Frete
+                                    GROUP BY id_destino )
+                                SELECT 
+                                    e.nome_estado AS Estado,
+                                    c.nome_cidade AS Cidade,
+                                    COALESCE(AVG(origem.quantidade_origem), 0) AS MediaFreteOrigem,
+                                    COALESCE(AVG(destino.quantidade_destino), 0) AS MediaFreteDestino
+                                FROM Estado e
+                                JOIN Cidade c ON e.id_estado = c.id_estado
+                                LEFT JOIN  origem ON c.id_cidade = origem.id_cidade
+                                LEFT JOIN destino ON c.id_cidade = destino.id_cidade
+                                WHERE e.id_estado = @Codigo -- Parâmetro para informar o estado
+                                GROUP BY e.nome_estado, c.nome_cidade;
+                                ";
+                return dbConnection.Query(sql, new { Codigo = codigoDoEstado }).AsList();
+            }
+        }
+
+
         public IList<Frete> ArrecadacaoComFretesPorEstado(string estado)
         {
             using (IDbConnection dbConnection = ConfigBanco.GetConnection())
