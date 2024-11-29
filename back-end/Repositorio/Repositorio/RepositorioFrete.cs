@@ -176,37 +176,24 @@ namespace Repositorio.Repositorio
         }
 
 
-        public IList<Frete> ArrecadacaoComFretesPorEstado(string estado)
+        public IList<dynamic> ArrecadacaoComFretesPorEstado(string nomeDoEstado)
         {
             using (IDbConnection dbConnection = ConfigBanco.GetConnection())
             {
-                if (!string.IsNullOrEmpty(estado))
-                {
-                    string sql = @"
-                                SELECT 
-                                    c.nome_cidade AS cidade,
-                                    e.nome_estado AS estado,
-                                    COUNT(f.id_frete) AS quantidade_de_frete,
-                                    SUM(f.valor) AS valor_total_arrecadado
-                                FROM 
-                                    Frete f
-                                JOIN 
-                                    Cidade c ON f.id_destino = c.id_cidade
-                                JOIN Estado e on c.id_estado = e.id_estado
-                                WHERE 
-                                    e.nome_estado = '@estado'
-                                    AND DATE_PART('year', f.data_frete) = 2024
-                                GROUP BY 
-                                    c.nome_cidade, e.nome_estado
-                                ORDER BY 
-                                    valor_total_arrecadado DESC;";
+                string sql = @"
+                            SELECT 
+                                c.nome_cidade AS cidade,
+                                e.nome_estado AS estado,
+                                COUNT(f.id_frete) AS quantidade_de_frete,
+                                SUM(f.valor) AS valor_total_arrecadado
+                            FROM Frete f
+                            JOIN  Cidade c ON f.id_destino = c.id_cidade
+                            JOIN Estado e on c.id_estado = e.id_estado
+                            WHERE  e.nome_estado = @NomeDoEstado AND DATE_PART('year', f.data_frete) = 2024
+                            GROUP BY c.nome_cidade, e.nome_estado
+                            ORDER BY valor_total_arrecadado DESC;";
 
-                    return dbConnection.Query<Frete>(sql, new {estado}).AsList();
-                }
-                else
-                {
-                    return null;
-                }
+                return dbConnection.Query(sql, new { NomeDoEstado = nomeDoEstado }).AsList();
             }
         }
     }

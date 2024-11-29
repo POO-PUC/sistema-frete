@@ -96,31 +96,16 @@ namespace Servico
             return media;
         }
 
-        public IList<DTOFrete> ArrecadacaoComFretesPorEstado(string estado)
+        public IList<dynamic> ArrecadacaoComFretesPorEstado(string estado)
         {
             if (string.IsNullOrWhiteSpace(estado))
             {
                 throw new ArgumentException("O estado informado não pode ser vazio.", nameof(estado));
             }
 
-            var dadosFrete = _repositorioFrete.ArrecadacaoComFretesPorEstado(estado);
+            var listaDeArrecadacoes = _repositorioFrete.ArrecadacaoComFretesPorEstado(estado);
 
-            return dadosFrete.Select(f => new DTOFrete
-            {
-                Codigo = f.Codigo,
-                Peso = f.Peso,
-                Valor = f.Valor,
-                ICMS = f.ICMS,
-                Pedagio = f.Pedagio,
-                DataInicio = f.DataInicio,
-                CodigoDaCidadeDeOrigem = f.CodigoDaCidadeDeOrigem,
-                CodigoDaCidadeDeDestino = f.CodigoDaCidadeDeDestino,
-                CodigoDoCliente = f.CodigoDoCliente,
-                CodigoDoDestinatario = f.CodigoDoDestinatario,
-                CodigoDoFuncionario = f.CodigoDoFuncionario,
-                QuemPaga = f.QuemPaga,
-                NumeroDeConhecimento = f.NumeroDeConhecimento
-            }).ToList();
+            return listaDeArrecadacoes;
         }
     }
 }
