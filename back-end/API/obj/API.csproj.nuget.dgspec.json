@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\API\\API.csproj": {}
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\API\\API.csproj": {
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\20211002800150\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\API\\obj\\",
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\20211002800150\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,17 +28,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Servico\\Servico.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Servico\\Servico.csproj"
               }
             }
           }
@@ -55,9 +51,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -87,32 +82,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
-        "UsingMicrosoftNETSdk": false,
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net472": {
             "projectReferences": {}
           }
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\packages.config"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj",
-        "UsingMicrosoftNETSdk": false,
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -123,46 +131,59 @@
         "net472": {}
       }
     },
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
         "projectName": "Repositorio",
-        "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
-        "UsingMicrosoftNETSdk": false,
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Matheus Souza\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "configFilePaths": [
+          "C:\\Users\\Matheus Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               }
             }
           }
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\packages.config"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
+    "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Servico\\Servico.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Servico\\Servico.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Servico\\Servico.csproj",
         "projectName": "Servico",
-        "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Servico\\Servico.csproj",
-        "UsingMicrosoftNETSdk": false,
+        "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Servico\\Servico.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\DTO\\DTO.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
-                "projectPath": "C:\\Users\\20211002800150\\Desktop\\Projeto Frete-POO\\freight-system\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
+              "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Matheus Souza\\Projetos\\sistema-frete\\back-end\\Repositorio\\Repositorio.csproj"
               }
             }
           }

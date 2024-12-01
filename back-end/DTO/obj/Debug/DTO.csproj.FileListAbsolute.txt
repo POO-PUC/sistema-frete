@@ -52,3 +52,9 @@ C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\b
 C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\DTO\obj\Debug\Frete.DTO.dll
 C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\DTO\obj\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\bin\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\bin\Debug\Frete.DTO.pdb
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\obj\Debug\Frete.DTO.dll
+C:\Users\Matheus Souza\Projetos\sistema-frete\back-end\DTO\obj\Debug\Frete.DTO.pdb

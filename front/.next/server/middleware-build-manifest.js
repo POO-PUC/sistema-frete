@@ -23,50 +23,15 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/fretes": [
+    "/cidades": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/fretes.js"
+      "static/chunks/pages/cidades.js"
     ],
-    "/fretes/[id]": [
+    "/fretes-atendidos": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/fretes/[id].js"
-    ],
-    "/fretes/create": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/fretes/create.js"
-    ],
-    "/pessoas-fisicas": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-fisicas.js"
-    ],
-    "/pessoas-fisicas/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-fisicas/[id].js"
-    ],
-    "/pessoas-fisicas/create": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-fisicas/create.js"
-    ],
-    "/pessoas-juridicas": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-juridicas.js"
-    ],
-    "/pessoas-juridicas/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-juridicas/[id].js"
-    ],
-    "/pessoas-juridicas/create": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/pessoas-juridicas/create.js"
+      "static/chunks/pages/fretes-atendidos.js"
     ]
   },
   "ampFirstPages": []

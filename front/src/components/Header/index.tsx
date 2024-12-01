@@ -29,6 +29,7 @@ export function Header() {
           <Link href="/pessoas-fisicas">Pessoa Fisíca</Link>
           <Link href="/pessoas-juridicas">Pessoa Jurídica</Link>
           <Link href="/fretes">Fretes</Link>
+          <Link href="/fretes-atendidos">Fretes Atendidos</Link>
           <Link href="/home"><FiLogOut color="#FFF" size={24} /></Link>
         </nav>
       </div>

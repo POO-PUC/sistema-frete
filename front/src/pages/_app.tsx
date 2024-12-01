@@ -9,6 +9,7 @@ import { FuncionarioProvider } from "../contexts/FuncionarioContext";
 import { PessoaFisicaProvider } from "../contexts/PessoaFisicaContext";
 import { PessoaJuridicaProvider } from "../contexts/PessoaJuridicaContext";
 import { FreteProvider } from "../contexts/FreteContext";
+import { FretesCalculosProvider } from '@/contexts/FretesCalculosContext';
 
 
 function MyApp({ Component, pageProps }:AppProps) {
@@ -20,8 +21,10 @@ function MyApp({ Component, pageProps }:AppProps) {
           <EstadoProvider>
             <CidadeProvider>
               <ClienteProvider>
-              <Component {...pageProps} /> 
-              <ToastContainer autoClose={3000}/>  
+                <FretesCalculosProvider>
+                  <Component {...pageProps} /> 
+                  <ToastContainer autoClose={3000}/>  
+                </FretesCalculosProvider>
               </ClienteProvider>
             </CidadeProvider>
           </EstadoProvider>
