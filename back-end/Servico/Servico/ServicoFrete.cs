@@ -95,6 +95,22 @@ namespace Servico
 
             return media;
         }
+        public IList<dynamic> ObterFuncionariosDePessoasJuridicasERepresentantes(int mes,int ano)
+        {
+            if (mes <= 0 && mes > 12)
+                throw new ArgumentException("O mês deve estar entre 1 e 12");
+
+            if (ano <= 0 && ano > 2024)
+                throw new ArgumentException("O ano deve estar entre 0 e 2024");
+
+            var media = _repositorioFrete.ObterFuncionariosDePessoasJuridicasERepresentantes(mes,ano);
+
+            if (media == null)
+                throw new KeyNotFoundException("Frete não encontrado.");
+
+            return media;
+        }
+        
 
         public IList<dynamic> ArrecadacaoComFretesPorEstado(string estado)
         {

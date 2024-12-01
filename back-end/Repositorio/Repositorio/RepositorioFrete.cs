@@ -175,6 +175,30 @@ namespace Repositorio.Repositorio
             }
         }
 
+        public IList<dynamic> ObterFuncionariosDePessoasJuridicasERepresentantes(int mes, int ano )
+        {
+            using (IDbConnection dbConnection = ConfigBanco.GetConnection())
+            {
+                string sql = @"SELECT 
+                                    F.nome_funcionario AS funcionario,
+                                    PJ.razao_social AS empresa,
+                                    PJ.inscricao_estadual AS representante,
+                                    FR.data_frete
+                               FROM 
+                                    Frete FR
+                               JOIN 
+                                    Funcionario F ON FR.id_funcionario = F.id_funcionario
+                               JOIN 
+                                    Cliente C ON FR.id_remetente = C.cod_cliente
+                               JOIN 
+                                    PessoaJuridica PJ ON C.cod_cliente = PJ.cod_PessoaJuridica
+                               WHERE 
+                                    EXTRACT(MONTH FROM FR.data_frete) = @_mes AND EXTRACT (YEAR FROM FR.data_frete ) = @_ano;
+                               ";
+                return dbConnection.Query(sql, new { _mes = mes, _ano = ano }).AsList();
+            }
+        }
+        
 
         public IList<dynamic> ArrecadacaoComFretesPorEstado(string nomeDoEstado)
         {

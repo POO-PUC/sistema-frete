@@ -306,3 +306,42 @@ D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.csproj.CoreCo
 D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Reposito.F4C96B80.Up2Date
 D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.dll
 D:\POO-BD\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Dapper.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Dominio.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Frete.DTO.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Iesi.Collections.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Npgsql.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Buffers.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Collections.Immutable.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Memory.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Json.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Threading.Channels.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.ValueTuple.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Dominio.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Frete.DTO.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Dapper.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Iesi.Collections.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Npgsql.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\bin\Debug\System.Text.Json.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.csproj.AssemblyReference.cache
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\obj\Debug\Reposito.F4C96B80.Up2Date
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Repositorio\obj\Debug\Repositorio.pdb

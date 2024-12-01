@@ -103,3 +103,18 @@ D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.CoreCompileInp
 D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.Up2Date
 D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.dll
 D:\POO-BD\sistema-frete\back-end\Dominio\obj\Debug\Dominio.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Dominio.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Dominio.pdb
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Antlr3.Runtime.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Iesi.Collections.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Antlr3.Runtime.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Iesi.Collections.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\obj\Debug\Dominio.dll
+C:\Users\20211002800150\Desktop\Projeto Frete-POO\freight-system\sistema-frete\back-end\Dominio\obj\Debug\Dominio.pdb

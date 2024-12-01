@@ -63,6 +63,15 @@ namespace WebApp.Controllers
             return Ok(resultado);
         }
 
+        [HttpGet("ObterFuncionariosDePessoasJuridicasERepresentantes")]
+        public ActionResult<IList<dynamic>> ObterFuncionariosDePessoasJuridicasERepresentantes(int mes, int ano)
+        {
+            var funcionarios = _servicoFrete.ObterFuncionariosDePessoasJuridicasERepresentantes(mes,ano);
+            if (funcionarios == null)
+                return NotFound();
+            return Ok(funcionarios);
+        }
+
         #endregion  
 
         #region CRUD FRETE
